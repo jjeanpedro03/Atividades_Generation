@@ -1,0 +1,15 @@
+{
+  "name": "generation-js14",
+  "version": "1.0.0",
+  "description": "Atividades JavaScript Generation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"sem testes\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
