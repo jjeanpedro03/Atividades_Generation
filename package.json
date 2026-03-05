@@ -10,6 +10,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "enquirer": "^2.4.1",
     "readline-sync": "^1.4.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjeanpedro03/Atividades_Generation.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/jjeanpedro03/Atividades_Generation/issues"
+  },
+  "homepage": "https://github.com/jjeanpedro03/Atividades_Generation#readme",
+  "devDependencies": {
+    "@types/node": "^25.3.3"
   }
 }
